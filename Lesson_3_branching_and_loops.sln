@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_3_branching_and_loops", "Lesson_3_branching_and_loops\Lesson_3_branching_and_loops.csproj", "{9633E2C6-D352-4490-95EB-6AA7C662D776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9633E2C6-D352-4490-95EB-6AA7C662D776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9633E2C6-D352-4490-95EB-6AA7C662D776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9633E2C6-D352-4490-95EB-6AA7C662D776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9633E2C6-D352-4490-95EB-6AA7C662D776}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6FD3C270-B834-4DC7-9766-93F061FB3F4C}
+	EndGlobalSection
+EndGlobal
